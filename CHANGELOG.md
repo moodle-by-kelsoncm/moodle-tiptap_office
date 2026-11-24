@@ -3,7 +3,7 @@
 All notable changes to `tiptap_office` are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses [SemVer](https://semver.org/).
 
-## [2.1.0] - 2026-11-24
+## 2.1.0 - 2026-11-24
 
 ### Changed
 
@@ -11,7 +11,7 @@ All notable changes to `tiptap_office` are documented here. The format follows
   each site decides whether to install it, because it matches a third-party TinyMCE plugin.
 - Sites that installed it with `editor_tiptap` 2.0.0 upgrade in place (same component, higher version).
 
-## [2.0.0] - 2026-11-23
+## 2.0.0 - 2026-11-23
 
 ### Added
 
