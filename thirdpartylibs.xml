@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<libraries>
+  <library>
+    <location>thirdparty/mammoth</location>
+    <name>mammoth</name>
+    <description>Converts Word documents (.docx) to HTML in the browser.</description>
+    <version>1.13.0</version>
+    <license>BSD-2-Clause</license>
+    <licenseversion></licenseversion>
+    <repository>https://github.com/mwilliamson/mammoth.js</repository>
+    <copyrights>
+      <copyright>2013 Michael Williamson</copyright>
+    </copyrights>
+  </library>
+</libraries>
